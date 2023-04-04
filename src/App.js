@@ -1,5 +1,5 @@
 import './App.css';
-import { DataSrc, } from './DataSrc'
+import DataSrc from './DataSrc'
 
 function App() {
   return (
